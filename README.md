@@ -5,8 +5,6 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dmedya&theme=dark&hide_border=true" />
 </div>
 <h3 align="center"></h3>
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
