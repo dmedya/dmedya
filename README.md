@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Medya</h1>
-<h3 align="center">Junior Software Developer</h3>
+<h3 align="center">eWFrbGFzdGlubm5ubiAKaHR0cHM6Ly9vcGVuLnNwb3RpZnkuY29tL3BsYXlsaXN0LzV1ZDFycHRUQUpZTVFLRGFiVUlleUI=</h3>
 
 
 <p align="left">
